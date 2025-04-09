@@ -11,3 +11,5 @@ venv\Scripts\activate        # Windows
 pip install -r requirements.txt
 
 Yuriko Ysique (Computer Science)
+
+Daisy Martinez (Computer Science)
