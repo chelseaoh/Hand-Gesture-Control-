@@ -10,3 +10,4 @@ venv\Scripts\activate        # Windows
 # install dependencies
 pip install -r requirements.txt
 
+Yuriko Ysique (Computer Science)
